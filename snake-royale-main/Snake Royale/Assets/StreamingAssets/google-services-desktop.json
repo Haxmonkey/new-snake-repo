@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "498198274189",
+    "project_id": "daadascape-77844178",
+    "storage_bucket": "daadascape-77844178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498198274189:android:25fdbc94146324a0ef82c4",
+        "android_client_info": {
+          "package_name": "com.DaadaInc.DaadaScape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498198274189-jh8hfjv2e51i14mc09bnr61jm8ivjl2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwT9UWeBj38COduq0srh6JYduPvt2ZVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498198274189-jh8hfjv2e51i14mc09bnr61jm8ivjl2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498198274189-p23bpe3kursjkjfmhi0qi0srl18om9ad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DaadaInc.DaadaScape"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
